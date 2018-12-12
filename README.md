@@ -6,6 +6,7 @@ hashTable
 **应用： 1.通讯录
       2. DNS解析
       3. 防止重复
+      4. 缓存
   
 **用法
    1. 使用yarn安装依赖: yarn install || yarn 
