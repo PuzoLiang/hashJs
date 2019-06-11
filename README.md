@@ -1,4 +1,7 @@
 # hashJs
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/JingLMalan/hashJs.svg)](https://greenkeeper.io/)
+
 hashTable 
 
 **开箱即用的Hash算法
